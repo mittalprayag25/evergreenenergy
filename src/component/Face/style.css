@@ -1,0 +1,21 @@
+.container  {
+    height: 400px;
+    background-image: url('../../assets/solar_panel.jpg');
+    background-blend-mode: lighten;
+}
+.insideContainer {
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    height: 50%;
+}
+.faceLabel {
+    display: flex;
+    color: cornsilk;
+    font-size: 50px;
+    font-weight: bolder;
+}
+.logo {
+    height: 100px;
+    width: 100px;
+}
